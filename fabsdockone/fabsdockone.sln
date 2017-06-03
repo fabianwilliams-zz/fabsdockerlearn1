@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabsdockone", "fabsdockone\fabsdockone.csproj", "{D8BAAD0D-574E-4555-A6C4-061DBC34A8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BAAD0D-574E-4555-A6C4-061DBC34A8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BAAD0D-574E-4555-A6C4-061DBC34A8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BAAD0D-574E-4555-A6C4-061DBC34A8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BAAD0D-574E-4555-A6C4-061DBC34A8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
